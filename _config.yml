@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "It's Ashish"
+title                    : "It's Gaurav"
 title_separator          : " "
-name                     : "Ashish Tele"
+name                     : "Gaurav Sharma"
 description              : "Data Science Portfolio"
-url                      : "https://ashishtele.github.io/"
+url                      : "https://Gaurav0805.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ashishtele/ashishtele.github.io"
+repository               : "GauravSharma0805/datascience"
 logo                     : "/assets/images/image.PNG" #, e.g. "/assets/images/500x300.png"
-masthead_title           : "It's Ashish"
+masthead_title           : "It's Gaurav"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
