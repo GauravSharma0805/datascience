@@ -23,7 +23,7 @@ description              : "Data Science Portfolio"
 url                      : "GauravSharma0805.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "GauravSharma0805/GauravSharma0805.github.io"
-logo                     : "/assets/images/image.PNG" #, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/self.PNG" #, e.g. "/assets/images/500x300.png"
 masthead_title           : "It's Gaurav"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
