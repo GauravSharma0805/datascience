@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashish Tele"
+  name             : "Gaurav Sharma"
   avatar           : "/images/pic.jpg"
   bio              : "Data Science Portfolio"
   location         : "Stamford, CT"
-  email            : #ashish.tele@uconn.edu
+  email            : #gaurav.sharma@uconn.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ashish.tele@uconn.edu
+      url: mailto:gaurav.sharma@uconn.edu
     - label: "Tableau"
       icon: "fas fa-fw fa-chart-line"
       url: "https://public.tableau.com/profile/ashish.tele#!/"
@@ -122,13 +122,13 @@ author:
       # url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ashishtele/"
+      url: "https://www.linkedin.com/in/gaurav-sharma-43337634"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ashishtele"
-    - label: "Wordpress"
-      icon: "fab fa-fw fa-wordpress"
-      url: "https://ashishtele1992.wordpress.com/about/"
+      url: "https://github.com/GauravSharma0805"
+     #label: "Wordpress"
+     # icon: "fab fa-fw fa-wordpress"
+     #url: "https://ashishtele1992.wordpress.com/about/"
 
 # Site Footer
 footer:
